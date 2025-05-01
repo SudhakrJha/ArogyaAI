@@ -25,7 +25,7 @@ Install ArogyaAI via npm
 Install ArogyaAI via Git Clone using cmd
 
 ```bash
-  git clone https://github.com/HarshdeepMishra/ArogyaAI
+  git clone https://github.com/SudhakrJha/ArogyaAI
 ```
 Download the lamma 2 model from hugging face by @TheBloke
 
